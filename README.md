@@ -1,2 +1,2 @@
-# Social-Media-Analysis-using-Graph-Theory-for-Viral-Marketing
+# Social Media Analysis using Graph Theory for Viral Marketing
 This Flask web application offers a practical implementation of influence maximization algorithms on network graphs, providing a visual and analytical tool for understanding information spread dynamics. The inclusion of Greedy, Degree Centrality, and PageRank algorithms, along with diverse graph visualizations and data analysis, contributes to a comprehensive exploration of network influence. The project lays a foundation for exploring influential nodes in networks, with potential for future developments to enhance usability and reliability.
